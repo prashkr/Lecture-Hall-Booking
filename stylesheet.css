@@ -1,0 +1,25 @@
+body {
+	background-image: url(back.jpg);
+}
+.style4 {font-family: "Courier New", Courier, monospace}
+.style7 {
+	font-family: "Courier New", Courier, monospace;
+	font-size: large;
+	font-weight: bold;
+	
+}
+.style8 {font-family: "Courier New", Courier, monospace; font-weight: bold; }
+a:link {
+	color: #333333;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #333333;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
